@@ -1,3 +1,3 @@
 # adb-botnet
 
--uma simples adb-based botnet B)
+- uma simples adb-based botnet B)
